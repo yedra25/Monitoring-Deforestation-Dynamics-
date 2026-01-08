@@ -1,4 +1,4 @@
-# Monitoring-Deforestation-Dynamics-
+# Monitoring-Deforestation-Dynamics
 
 ## Introduction
 The project focuses on the Amazon Rainforest in the Northwestern part of Brazil which has experienced a significant decline in the number of trees due to various external factors. The primary objective is to analyze and understand the core reasons of the causes, directing them to the concerned authorities for further actions and preventing deforestation in these areas.
